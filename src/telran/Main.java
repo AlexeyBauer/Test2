@@ -2,6 +2,6 @@ package telran;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hellou g10");
+        System.out.println("Hello grupe10");
     }
 }
